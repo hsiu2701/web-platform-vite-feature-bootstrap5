@@ -1,0 +1,57 @@
+.index-title {
+  font-size: 100px;
+}
+
+.list-ad {
+  width: 286px;
+}
+
+.card-ad {
+  width: 100%;
+}
+// nav要固定左側 100%寬-296 左側欄位不重疊，外間距 自動
+.content {
+  width: calc(100% - 296px);
+  margin-left: auto;
+}
+.list-group-item.active {
+  background-color: #f8f9fa;
+  color: #212529;
+  border-color: #ced4da;
+}
+.fs-12 {
+  font-size: 12px;
+}
+.small-color {
+  color: #6c757d;
+}
+
+.bth-download {
+  background-color: #f8f9fa;
+  border-color: #ced4da;
+}
+
+.boundary {
+  border-top: 1px solid #ced4da;
+}
+
+.text-style {
+  width: 100%;
+  border-bottom: 2px solid#edeff1;
+  background-color: #f8f9fa;
+}
+.textarea-style {
+  width: 100%;
+  height: auto;
+}
+
+.star {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.top {
+  top: 45%;
+}
+.btn-m {
+  margin-left: auto;
+}
